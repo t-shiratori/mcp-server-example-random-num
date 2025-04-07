@@ -69,3 +69,5 @@ reference: https://github.com/modelcontextprotocol/servers/issues/64#issuecommen
 
 - [Example Servers - Model Context Protocol](https://modelcontextprotocol.io/examples)
 - [modelcontextprotocol/typescript-sdk: The official Typescript SDK for Model Context Protocol servers and clients](https://github.com/modelcontextprotocol/typescript-sdk/tree/main)
+- [TypeScript で MCP サーバーを実装し、Claude Desktop から利用する](https://azukiazusa.dev/blog/typescript-mcp-server/)
+- [簡易な自作MCPサーバーをお試しで実装する方法](https://zenn.dev/smartround_dev/articles/02af1058e9f80f)

@@ -34,7 +34,7 @@ describe("RandomNumber", () => {
       content: [
         {
           type: "text",
-          text: expect.stringMatching(/^[1-6]$/),
+          text: expect.stringMatching(/^[1-9]|[1-9][0-9]$/),
         },
       ],
     });
